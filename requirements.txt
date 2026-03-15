@@ -1,0 +1,13 @@
+jupyterlab
+notebook
+
+pymc
+arviz
+
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+scikit-learn
